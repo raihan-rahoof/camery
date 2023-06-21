@@ -48,7 +48,7 @@ body{
 
 
 }
-@media (min-width:821px){
+@media (min-width:820px){
 
     .crop{
         display: none;
@@ -59,6 +59,7 @@ body{
     .sec2{
         height: 531px;
     }
+    
 }
 
 @media (min-width:760px) {
