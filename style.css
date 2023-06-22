@@ -42,24 +42,26 @@ body{
         display: none;
     }
     .textcol h3{
-        width: 24rem;
+        width: 23rem;
     }
    
 
 
 }
-@media (min-width:820px){
+@media (min-width:823px){
 
     .crop{
         display: none;
     }
     .textcol h3{
         font-size: 24rem;
+        width: 24rem;
     }
     .sec2{
         height: 531px;
     }
     
+   
 }
 
 @media (min-width:760px) {
@@ -93,7 +95,7 @@ body{
     justify-content: center;
 }
 .textcol h3{
-    width: 24rem;
+    
     font-family: 'Montserrat';
     font-weight: bolder;
     font-size: 2.5rem;
